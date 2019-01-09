@@ -1,0 +1,28 @@
+task:
+  source_location: D:\IdeaSource\Glodon\java\gcj_cstm_task_manager
+  compiled_location: E:\Works\Publication Directory\gcj_cstm_task_manager
+api:
+  source_location: D:\IdeaSource\Glodon\member_center_api
+  compiled_location: E:\Works\Publication Directory\member_center_api
+gccce:
+  source_location: D:\IdeaSource\Glodon\gcj_engineering_info\gcj_custsys
+  compiled_location: E:\Works\Publication Directory\gcj_customer_service
+bg:
+  source_location: D:\IdeaSource\Glodon\java\member_center_manager\member_center_manager_trunk
+  compiled_location: E:\Works\Publication Directory\member_center_bg
+master:
+  source_location: D:\IdeaSource\Glodon\java\gcw_master_site
+  compiled_location: E:\Works\Publication Directory\gcw_master_site
+dws-hw:
+  source_location: D:\IdeaSource\Glodon\java\gcj_dws_hw
+  compiled_location: E:\Works\Publication Directory\gcj_dws_hw_online
+dws-yz:
+  source_location: D:\IdeaSource\Glodon\java\gcj_dws_yz
+  compiled_location: E:\Works\Publication Directory\gcj_dws_yz
+water-backend:
+  source_location: D:\IdeaSource\Glodon\WaterBackend
+  compiled_location: E:\Works\Publication Directory\waterdrop_admin_online
+bid-data-interface:
+  source_location: D:\IdeaSource\Glodon\bid_data_interface
+  compiled_location: E:\Works\Publication Directory\bid_data_interface_online
+
